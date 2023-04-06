@@ -50,6 +50,6 @@ The following packages have been used in this project:
 <li>"passport": "^0.6.0" </li>
 <li>"passport-facebook": "^3.0.0" </li>
 <li>"passport-google-oauth20": "^2.0.0" </li>
-
+</ul>
 <h1>How to Contribute </h1>
 If you wish to contribute to this project, please feel free to fork the repository and submit a pull request with your changes.
