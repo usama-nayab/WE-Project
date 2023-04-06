@@ -32,7 +32,7 @@ The website has been built using the following technologies:
 </ul>
 
 
-<h1>Packages Used<h1>
+<h1>Packages Used</h1>
 The following packages have been used in this project:
 <ul>
 
