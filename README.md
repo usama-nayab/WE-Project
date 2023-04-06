@@ -10,7 +10,7 @@
 <li> Contact </li>
 </ul>
 
-<img src="./public/img/home.png" alt="">
+<img width="300px" height="300px" src="./public/img/home.png" alt="">
 
 <h1> Purpose </h1>
 The purpose of this website is to promote the concept of scouting and to encourage people to join as scouts. It highlights the importance of scouts in society and the role they play in securing individuals and society in uncertain and dangerous scenarios.
